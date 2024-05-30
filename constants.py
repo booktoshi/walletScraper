@@ -1,0 +1,1 @@
+BASE_URL = "https://dogeturbo.ordinalswallet.com"
